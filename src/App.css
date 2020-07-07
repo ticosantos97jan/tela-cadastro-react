@@ -1,0 +1,38 @@
+html {
+    height: 100%;
+  }
+  body {
+    min-height: 100%;
+  }
+
+.card-body{
+ border-radius:12px; 
+ width:400px;
+ margin: auto;
+ display:flex;
+ height:100%;
+}
+
+
+.input{
+width:200px;
+border-radius:12px;
+
+}
+.jum{
+margin: auto;
+height:700px;    
+}
+.cont{
+height: 100%;    
+}
+
+.button{
+ border-radius:12px;   
+}
+.footer{
+margin:auto;
+height:5vw;
+box-sizing: border-box;    
+}
+
